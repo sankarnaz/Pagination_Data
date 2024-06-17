@@ -1,0 +1,54 @@
+{
+	result:[
+				{
+					"Date": "01 May, 2017",
+					"Region": "East",
+					"Product Category": "Stationery",
+					"Product": "Computer Paper",
+					"Customer Name": "Peter McVee",
+					"Sales": "$531.09",
+					"Cost": "$122.78",
+					"Profit": "$408.31"
+  				},
+  				{
+					"Date": "30 Apr, 2017",
+					"Region": "East",
+					"Product Category": "Furniture",
+					"Product": "Frames",
+					"Customer Name": "Pete Zachriah",
+					"Sales": "$405.87",
+					"Cost": "$85.14",
+					"Profit": "$320.73"
+  				},
+  				{
+					"Date": "28 Apr, 2017",
+					"Region": "East",
+					"Product Category": "Stationery",
+					"Product": "Writings Pads",
+					"Customer Name": "Florence Joy",
+					"Sales": "$58.48",
+					"Cost": "$7.3",
+					"Profit": "$51.18"
+  				},
+  				{
+					"Date": "28 Apr, 2017",
+					"Region": "Central",
+					"Product Category": "Grocery",
+					"Product": "Fruits and Vegetables",
+					"Customer Name": "Lance Willis",
+					"Sales": "$1887.12",
+					"Cost": "$222.08",
+					"Profit": "$1665.04"
+  				},
+  				{
+					"Date": "26 Apr, 2017",
+					"Region": "Central",
+					"Product Category": "Stationery",
+					"Product": "Surge Protectors",
+					"Customer Name": "Steve Harminson",
+					"Sales": "$84.01",
+					"Cost": "$26.63",
+					"Profit": "$57.38"
+  				}
+	]
+}
